@@ -194,7 +194,7 @@ menu:
   - path: /about
     translation_key: menu.about
     dropdown: []
-  - path: my-example-page/
+  - path: /my-example-page
     translation_key: general.home
     dropdown: []
 metadata_edit_url: metadata
