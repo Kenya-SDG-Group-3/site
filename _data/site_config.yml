@@ -195,7 +195,7 @@ menu:
     translation_key: menu.about
     dropdown: []
   - path: /my-example-page
-    translation_key: general.MHA
+    translation_key: MHA
     dropdown: []
 metadata_edit_url: metadata
 metadata_tabs:
