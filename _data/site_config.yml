@@ -143,7 +143,6 @@ indicator_tabs:
   tab_4: ''
 languages:
   - en
-  - es
 languages_public: []
 logos: []
 map_layers: []
@@ -194,6 +193,9 @@ menu:
     dropdown: []
   - path: /about
     translation_key: menu.about
+    dropdown: []
+  - path: my-example-page/
+    translation_key: general.home
     dropdown: []
 metadata_edit_url: metadata
 metadata_tabs:
