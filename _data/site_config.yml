@@ -88,9 +88,7 @@ frontpage_cards:
     rule_color: ''
   - title: Our super powers
     content: |
-      '<github>
-      <SDG> Hello data</SDG>
-      </github>'
+      Hello Data
     include: ''
     button_label: Read more
     button_link: 'https://example.com'
