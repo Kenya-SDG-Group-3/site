@@ -7,7 +7,7 @@ layout: page
 
 ## Group 3 page
 
-[No poverty("www.knbs.co.ke")
+[No poverty]("www.knbs.co.ke")
 
 Data collection is the systematic process of gathering and measuring information for the purpose of research, analysis, or decision-making. It involves the acquisition of raw data from various sources, which can include surveys, observations, experiments, interviews, and existing records. The collected data may be quantitative (numerical) or qualitative (descriptive), and the methods employed depend on the nature of the research objectives.
 
